@@ -4,6 +4,8 @@
 
 ### A responsive video discovery and watch experience, powered by the YouTube Data API v3.
 
+**Made by [Rahul Singh Kushwaha](https://github.com/rahulsinghkushwaha232)**
+
 [![React](https://img.shields.io/badge/React-19-149eca?logo=react&logoColor=white)](https://react.dev/)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?logo=vite&logoColor=white)](https://vite.dev/)
 [![React Router](https://img.shields.io/badge/React_Router-7-f44250?logo=reactrouter&logoColor=white)](https://reactrouter.com/)
@@ -14,7 +16,8 @@
 [![CSS](https://img.shields.io/badge/CSS-Tailwind_and_project_styles-663399?logo=css&logoColor=white)](https://developer.mozilla.org/docs/Web/CSS)
 [![HTML](https://img.shields.io/badge/HTML-Vite_entry-e34f26?logo=html5&logoColor=white)](https://developer.mozilla.org/docs/Web/HTML)
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Open_App-00c853?logo=vercel&logoColor=white)](https://you-tube-clone-nine-pearl.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Open_App-00c853?logo=vercel&logoColor=white&style=for-the-badge)](https://you-tube-clone-nine-pearl.vercel.app)
+[![Vercel](https://img.shields.io/badge/Deployed_on-Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)](https://you-tube-clone-nine-pearl.vercel.app)
 
 [Explore the repository](https://github.com/rahulsinghkushwaha232/YouTube-Clone) · [Report a bug](https://github.com/rahulsinghkushwaha232/YouTube-Clone/issues)
 
@@ -197,6 +200,9 @@ The repository's [`vercel.json`](vercel.json) includes an SPA rewrite so routes 
 
 <div align="center">
 
-Built as an independent React learning project.
+Built with ❤️ by **[Rahul Singh Kushwaha](https://github.com/rahulsinghkushwaha232)**
+
+[![GitHub](https://img.shields.io/badge/GitHub-rahulsinghkushwaha232-181717?logo=github&logoColor=white)](https://github.com/rahulsinghkushwaha232)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-you--tube--clone--nine--pearl.vercel.app-00c853?logo=vercel&logoColor=white)](https://you-tube-clone-nine-pearl.vercel.app)
 
 </div>
